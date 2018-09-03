@@ -148,7 +148,7 @@ Matching::oneway_match (Options const& options,
         // 标准1： 与最近邻的距离必须小于特定阈值
         if (nn_result.dist_1st_best > square_dist_thres)
             continue;
-
+  
 
 
 
@@ -164,11 +164,11 @@ Matching::oneway_match (Options const& options,
                /*                  */
                /*    此处添加代码    */
                /*                  */
-               
+
         /*****************************************************************/
 
 
-
+ 
 
 
 //        if (static_cast<float>(nn_result.dist_1st_best)
