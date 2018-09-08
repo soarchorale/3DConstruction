@@ -32,4 +32,8 @@
 *.app
 
 # Folders
-\chapter1\
+/chapter1/*
+/build/*
+/cmake-build-debug/*
+.Ds_store
+
