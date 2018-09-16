@@ -33,7 +33,11 @@
 
 # Folders
 /chapter1/*
-/build/*
+*/build/*
 /cmake-build-debug/*
-.Ds_store
+.DS_Store
+*/.DS_Store
+*/tmp
+*/.vscode
+
 
