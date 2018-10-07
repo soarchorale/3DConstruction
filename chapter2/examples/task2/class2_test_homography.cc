@@ -19,7 +19,7 @@
 #include "sfm/ransac_fundamental.h"
 #include "sfm/ransac_homography.h"
 #include "sfm/feature_set.h"
-#include "examples/visualizer.h"
+#include "visualizer.h"
 
 #define MAX_PIXELS 1000000
 
